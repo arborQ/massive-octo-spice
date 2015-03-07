@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ARBOR-SOFTWARE</Machine>
+    <WindowsUser>arbor</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>39a35b70-3a08-45b7-91f3-27f82191b434</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\arbor\Documents\GitHub\massive-octo-spice\MassiveOctoSpice\MassiveOctoSpice\MassiveOctoSpice.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>F18C8E7ABC1E7E4BDA8FC26550540DA70A1092EAB0DA8A9F750B90774DB1F089</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>39a35b70-3a08-45b7-91f3-27f82191b434_1.0.0.0_neutral__hwfc4mzty3yee</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>39a35b70-3a08-45b7-91f3-27f82191b434_hwfc4mzty3yee!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>39a35b70-3a08-45b7-91f3-27f82191b434</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=arbor</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\arbor\Documents\GitHub\massive-octo-spice\MassiveOctoSpice\MassiveOctoSpice\MassiveOctoSpice.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-07T20:22:36.464</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\arbor\Documents\GitHub\massive-octo-spice\MassiveOctoSpice\MassiveOctoSpice\MassiveOctoSpice.Windows\bin\Debug\MassiveOctoSpice.Windows.exe">
+      <PackagePath>MassiveOctoSpice.Windows.exe</PackagePath>
+      <Modified>2015-03-07T20:31:00.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\arbor\Documents\GitHub\massive-octo-spice\MassiveOctoSpice\MassiveOctoSpice\MassiveOctoSpice.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T17:15:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\arbor\Documents\GitHub\massive-octo-spice\MassiveOctoSpice\MassiveOctoSpice\MassiveOctoSpice.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T17:15:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\arbor\Documents\GitHub\massive-octo-spice\MassiveOctoSpice\MassiveOctoSpice\MassiveOctoSpice.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T17:15:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\arbor\Documents\GitHub\massive-octo-spice\MassiveOctoSpice\MassiveOctoSpice\MassiveOctoSpice.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T17:15:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\arbor\Documents\GitHub\massive-octo-spice\MassiveOctoSpice\MassiveOctoSpice\MassiveOctoSpice.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-07T19:47:05.883</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\arbor\Documents\GitHub\massive-octo-spice\MassiveOctoSpice\MassiveOctoSpice\MassiveOctoSpice.Windows\bin\Debug\List.xbf">
+      <PackagePath>List.xbf</PackagePath>
+      <Modified>2015-03-07T20:31:00.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\arbor\Documents\GitHub\massive-octo-spice\MassiveOctoSpice\MassiveOctoSpice\MassiveOctoSpice.Windows\bin\Debug\ListOfMaps.xbf">
+      <PackagePath>ListOfMaps.xbf</PackagePath>
+      <Modified>2015-03-07T20:31:00.052</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\arbor\Documents\GitHub\massive-octo-spice\MassiveOctoSpice\MassiveOctoSpice\MassiveOctoSpice.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-07T19:47:05.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\arbor\Documents\GitHub\massive-octo-spice\MassiveOctoSpice\MassiveOctoSpice\MassiveOctoSpice.Windows\bin\Debug\MassiveOctoSpice.Windows.xr.xml">
+      <PackagePath>MassiveOctoSpice.Windows.xr.xml</PackagePath>
+      <Modified>2015-03-07T20:31:00.024</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\arbor\Documents\GitHub\massive-octo-spice\MassiveOctoSpice\MassiveOctoSpice\MassiveOctoSpice.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-07T20:22:36.267</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
